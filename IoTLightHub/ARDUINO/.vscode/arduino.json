@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:unowifi",
+    "port": "COM8",
+    "programmer": "avrispmkii",
+    "sketch": "Prog.ino"
+}
